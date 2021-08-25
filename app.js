@@ -16,5 +16,5 @@ console.log(fullName);
 let city = "Birmingham";
 let state = "Alabama";
 const pastTime = "Coffee";
-let myStory = `Hello! My name is ${fullName}. I live in ${city}, ${state}. I enjoy ${passtime} and coding!`;
+let myStory = `Hello! My name is ${fullName}. I live in ${city}, ${state}. I enjoy ${pastTime} and coding!`;
 console.log(myStory);
